@@ -1,6 +1,6 @@
-# Improving Password Management and Reset Procedures in IT Support Environments
+## What Is This
 
-This repository contains an executive briefing titled **"Improving Password Management and Reset Procedures in IT Support Environments"**. The briefing addresses one of the most common challenges faced by IT support teams: managing and resolving password related helpdesk requests efficiently and securely.
+This briefing addresses one of the most common challenges faced by IT support teams: managing and resolving password related helpdesk requests efficiently and securely.
 
 ## Who Should Use This
 
